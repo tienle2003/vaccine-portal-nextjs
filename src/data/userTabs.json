@@ -1,0 +1,5 @@
+[
+  { "id": 1, "label": "Chứng nhận tiêm chùng", "path": "/vaccine-certificate" },
+  { "id": 2, "label": "Kết quả đăng ký", "path": "/registration-result" },
+  { "id": 3, "label": "Tài khoản", "path": "/user-account" }
+]

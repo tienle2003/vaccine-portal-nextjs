@@ -1,0 +1,5 @@
+[
+  { "id": 1, "label": "Điểm tiêm", "path": "/admin/injection-point" },
+  { "id": 2, "label": "Đăng ký", "path": "/admin/vaccine-registration" },
+  { "id": 3, "label": "Tài liệu", "path": "/admin/document" }
+]

@@ -1,0 +1,36 @@
+{
+  "columns": [
+    { "id": "id", "label": "STT", "minWidth": 70 },
+    { "id": "name", "label": "Tên điểm tiêm", "minWidth": 170 },
+    {
+      "id": "detailAddress",
+      "label": "Số nhà, tên đường",
+      "minWidth": 170
+    },
+    {
+      "id": "ward",
+      "label": "Xã/Phường",
+      "minWidth": 170
+    },
+    {
+      "id": "district",
+      "label": "Quận/Huyện",
+      "minWidth": 170
+    },
+    {
+      "id": "province",
+      "label": "Tỉnh/Thành phố ",
+      "minWidth": 170
+    },
+    {
+      "id": "manager",
+      "label": "Người đứng đầu cơ sở tiêm chủng",
+      "minWidth": 170
+    },
+    {
+      "id": "numberOfTables",
+      "label": "Số bàn tiêm",
+      "minWidth": 170
+    }
+  ]
+}

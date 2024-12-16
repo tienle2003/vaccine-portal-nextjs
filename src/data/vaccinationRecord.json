@@ -1,0 +1,25 @@
+{
+  "columns": [
+    { "id": "id", "label": "Mũi số", "minWidth": 70 },
+    {
+      "id": "injectionDate",
+      "label": "Thời gian tiêm",
+      "minWidth": 170
+    },
+    {
+      "id": "vaccineName",
+      "label": "Tên vắc xin",
+      "minWidth": 170
+    },
+    {
+      "id": "batchNumber",
+      "label": "Số lô",
+      "minWidth": 170
+    },
+    {
+      "id": "vaccinationSite",
+      "label": "Nơi tiêm",
+      "minWidth": 170
+    }
+  ]
+}
